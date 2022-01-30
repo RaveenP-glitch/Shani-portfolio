@@ -7,7 +7,7 @@
 .hero{
 	height: 100vh;
 	width: 100%;
-	background-image: url(../img/background.jpg);
+	background-image: url(../img/background2.png);
 	background-size: cover;
 	background-position: center;
 }
@@ -62,6 +62,17 @@ nav ul li a:hover{
 	left:8%;
 	transform: translateY(-50%);
 }
+
+.skillset{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	background: #101010;
+	width: 100%;
+	padding: 100px 0px;
+}
+
+
 h1{
 	color: white;
 	margin: 20px 0px 20px;
